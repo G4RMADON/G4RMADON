@@ -1,13 +1,10 @@
 
   <p align="center">
 
-<img src="https://files.catbox.moe/7qt70r.gif" alt="bkg">
+<img src="https://files.catbox.moe/7qt70r.gif" alt="one"> <img src="https://files.catbox.moe/74z0eu.gif" alt="two">  <img src="https://files.catbox.moe/wyvp5r.png" alt="three"> <img src="https://files.catbox.moe/d6zs6j.png" alt="four"> 
 
 <p align="center">
   
  
   
-<p align="center"> 
-  
-⠀⠀⠀⠀[𝐂](https://kiriyaoi.carrd.co)arrd⠀  .⠀  [𝐏](https://pronouns.cc/Dynamight)rns.cc⠀  .⠀  [𝑹](https://rentry.co/1loyd)entry
 
