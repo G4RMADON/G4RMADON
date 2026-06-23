@@ -5,7 +5,7 @@
 
 <p align="center">
   
-<p align="center">
+<div align="center">
   
 ![](https://komarev.com/ghpvc/?username=DYN4MIGHT&label=忍者:&color=79938D&style=plastic)
 
